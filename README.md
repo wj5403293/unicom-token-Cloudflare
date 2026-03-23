@@ -7,10 +7,10 @@
 ## 主要文件
 
 - Worker 入口：[src/worker.js](src/worker.js)
-- 前端页面：[src/page.js](/storage/emulated/0/Download/qiandao/src/page.js#L1)
-- Cloudflare 配置：[wrangler.jsonc](/storage/emulated/0/Download/qiandao/wrangler.jsonc#L1)
-- 基础部署文档：[DEPLOY_CF_WORKER.md](/storage/emulated/0/Download/qiandao/DEPLOY_CF_WORKER.md#L1)
-- GitHub 自动部署文档：[GITHUB_CLOUDFLARE_DEPLOY.md](/storage/emulated/0/Download/qiandao/GITHUB_CLOUDFLARE_DEPLOY.md#L1)
+- 前端页面：[src/page.js](src/page.js)
+- Cloudflare 配置：[wrangler.jsonc](wrangler.jsonc)
+- 基础部署文档：[DEPLOY_CF_WORKER.md](DEPLOY_CF_WORKER.md)
+- GitHub 自动部署文档：[GITHUB_CLOUDFLARE_DEPLOY.md](GITHUB_CLOUDFLARE_DEPLOY.md)
 
 ## 本地运行
 
@@ -24,7 +24,7 @@ npm run dev
 
 如果你想上传 GitHub 后直接让 Cloudflare 自动部署，优先看：
 
-[GITHUB_CLOUDFLARE_DEPLOY.md](/storage/emulated/0/Download/qiandao/GITHUB_CLOUDFLARE_DEPLOY.md#L1)
+[GITHUB_CLOUDFLARE_DEPLOY.md](GITHUB_CLOUDFLARE_DEPLOY.md)
 
 如果你想做公开仓库的一键部署，可使用这种链接格式：
 
